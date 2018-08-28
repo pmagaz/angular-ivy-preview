@@ -15,4 +15,3 @@ $ yarn install
 ```
 $ yarn ngc
 ```
-
